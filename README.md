@@ -14,3 +14,7 @@ Deploy on all platforms with Expo Application Services (EAS).
 
 - Deploy the website: `npx eas-cli deploy` — [Learn more](https://docs.expo.dev/eas/hosting/get-started/)
 - Deploy on iOS and Android using: `npx eas-cli build` — [Learn more](https://expo.dev/eas)
+
+## Attributes
+
+<a href="https://www.flaticon.com/free-icons/gym" title="gym icons">Gym icons created by photo3idea_studio - Flaticon</a>

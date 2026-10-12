@@ -12,9 +12,15 @@
         {
           "origin": "https://n"
         }
-      ]
+      ],
+      "expo-font",
+      "@clerk/expo",
+      "expo-secure-store"
     ],
-    "name": "fit-app",
-    "slug": "fit-app"
+    "name": "workouts mobile",
+    "slug": "workouts-mobile",
+    "android": {
+      "package": "com.anonymous.workoutsmobile"
+    }
   }
 }
